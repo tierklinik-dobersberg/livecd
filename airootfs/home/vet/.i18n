@@ -1,0 +1,3 @@
+export LANGUAGE=de_AT.utf8
+export LANG=de_AT.utf8
+export LC_ALL=de_AT.utf8
